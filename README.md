@@ -10,14 +10,18 @@ Counts how many public repos a GitHub user has in each programming language.
 
 ## Example
 
+```
 python analyzer.py octocat
+```
 
 Output:
 
+```
 Unknown 5
 Ruby 1
 CSS 1
 HTML 1
+```
 
 ## Notes
 
